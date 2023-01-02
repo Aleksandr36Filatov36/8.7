@@ -1,0 +1,12 @@
+.game-card {
+    height: 100vh;
+    font-family: 'sans-serif', monospace;
+    font-size: 40px;
+    
+}
+
+body{
+    background-image: url(bg.jpg) ;
+}
+
+ 
